@@ -1,0 +1,25 @@
+@charset "utf-8";
+.res-tcolor{	
+}
+.col-lg-3{
+	padding: 2px 5px;
+}
+.posiabso{
+	position: absolute;
+}
+.posire{
+	position: relative;
+}
+
+.clock-local{
+	height: 100px;
+	width: 400px;
+	margin: 10px auto;
+	padding: 10px;
+	color: saddlebrown;
+	font-size: 24px;
+	box-shadow: 2px 2px 5px saddlebrown;
+}
+.btn-white-hover:hover{
+	boder: 1px solid white;
+}

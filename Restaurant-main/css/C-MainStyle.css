@@ -1,0 +1,163 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Charmonman:wght@700&family=Corinthia:wght@700&family=Great+Vibes&family=Pacifico&family=Patua+One&family=Permanent+Marker&display=swap');
+*{
+	margin: 0px 0px;
+	padding: 0px;
+}
+
+
+h3{
+	clear: both;
+}
+#logo{
+	width: 30px;
+	height: 30px;
+}
+.one{
+	width: 100%;
+	margin: 0px auto;
+}
+
+.container-fluid{
+	margin-top: 70px;
+	padding: 0px;
+}
+
+.banner{
+	display: block;
+	width: 100%;
+}
+.intro-text{
+	display: block;
+	min-height: 50px;
+	text-align: center;
+	padding: 30px 6%;
+	margin: auto 5%;
+	
+}
+.info-text{
+	font-size: 16px;
+	margin-top: 1%;
+}
+/*-------style title  */
+.tit-brand{
+font-family: 'Patua One', cursive;
+	text-shadow: 1px 1px 1px pink;
+}
+
+.tit-text1{
+	font-family: 'Corinthia', cursive;
+	font-size: 60px;
+	color: rgba(27,6,0,1.00);
+	margin-top: 25px;
+}
+.tit-text0{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 45px;
+	color: black;
+}
+.pri-fontext{
+	font-family:  'Corinthia', cursive;
+	font-size: 40px;
+}
+.things{
+	text-align: center;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+}
+.row{
+	display: flex;
+	margin: auto;
+}
+.col-lg-4{
+	padding: 10px 5px;	
+}
+
+.bbt{
+    margin-bottom: 0.5px;
+}
+.headerr{
+    display: block;
+}
+#inav01 a{
+	display: block;
+	padding: 15px 20px;
+	text-decoration: none;
+	}
+
+.cbanner{
+	width: 100%;
+	height: 100%;
+}
+footer{
+	display: block;
+	width: 100%;
+}
+
+/*tooltips for icon footer*/
+span1{
+	
+}
+a span1 {
+  background: #fff;
+  color: #222;
+  font-size: 14px;
+  font-weight: bold;
+  position:  absolute;
+  bottom: 0;
+  left: -25px;
+  right: -25px;
+  padding: 5px 7px;
+  visibility: hidden;
+  opacity: 0;
+  -webkit-transition: all .4s;
+  -moz-transition: all .4s;
+}
+.tips {
+  position: relative;
+  -webkit-transition: all .5s;
+  -moz-transition: all .5s;
+  transition: all .5s;
+}
+a:hover span1 {
+	bottom: 50px;
+	visibility: visible;
+	opacity: 1;
+	border-radius: 30px;
+
+}
+
+.mar-3{
+	margin: auto 3%;
+}
+.bbhover:hover{
+	background-color: black;
+	color: white;
+}
+/*button back to top*/
+#myBtn {
+  display: none;
+  position: fixed;
+bottom: 20px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: rgba(143,68,0,1.00);
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+	right: 5px;
+}
+
+#myBtn:hover {
+  background-color:rgba(139,0,2,1.00);
+}
+
+
+
+
+
+

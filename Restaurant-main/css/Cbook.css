@@ -1,0 +1,63 @@
+@charset "utf-8";
+/*-----------css for BOOK A TABLE----------------- */
+form{
+	max-width: 700px;
+	margin: 0px 20px;
+	font-size: 18px;
+	background-color: rgba(234,175,140,0.70);
+}
+#Bsend:hover{
+	background-color:black;
+	color: white;
+}
+#Bsend{
+	margin: 20px auto;
+	padding: 10px 30px;
+	background-color: rgba(244,214,176,1.00);
+	border-radius: 10px;
+	text-align: center;
+	color: black;
+}
+.bgbooktable{
+	background-color: rgba(179,122,72,1.00);
+}
+.thingBook{
+	margin: 10px auto 20px ;
+	padding: 10px;
+	boder: 1px solid rgb(131, 108, 108);
+	box-shadow: 3px 3px 5px 10px white;	
+}
+.BookBanner{
+	text-align: center;
+}
+.bookcanvas{
+	display: block;background: url("../img/noel-01.png") bottom right no-repeat ;
+	padding-bottom: 50px;
+}
+.hr-style2{
+	border-bottom: 2px solid rgba(201,120,0,1.00);
+	border-top: 2px solid rgba(201,120,0,1.00);
+	width: 30%;
+	margin: 5px auto;
+	height: 5px;
+}
+.hr-style0{
+	width: 40%;
+	border: 1px solid grey;
+	margin: 20px auto;
+}
+.binstyle{
+	color: black;
+	font-size: 18px;
+}
+label{
+	color: saddlebrown;
+}
+input::placeholder{
+	color: rgba(189,189,189,1.00);
+}
+/*/ ------css About us */
+.colhei{
+	
+	margin: 0px auto;
+}

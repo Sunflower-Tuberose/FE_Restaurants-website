@@ -1,0 +1,72 @@
+@charset "utf-8";
+/**text reveal animation*/
+.tocenter{
+	margin-bottom: 5%;
+}
+.carousel-caption{
+	height: 54%;
+}
+animation1 {
+  font-family:'Permanent Marker';
+  overflow:hidden;
+  -webkit-backface-visibility: hidden;
+  -webkit-perspective: 1000;
+  -webkit-transform: translate3d(0,0,0);
+	text-align:center;
+	margin-bottom: 50px; 
+}
+
+animation2 {
+  display:inline-block;
+  overflow:hidden;
+  white-space:nowrap;
+}
+
+animation2:first-of-type {    /* For increasing performance 
+                       ID/Class should've been used. 
+                       For a small demo 
+                       it's okaish for now */
+  animation: showup 7s infinite;
+}
+
+animation2:last-of-type {
+  animation: reveal 8s infinite;
+}
+
+animation2:last-of-type span {
+  animation: slidein 8s infinite;
+}
+.text-animation1{
+	color: aliceblue;
+	font-size: 36px;
+	font-weight: bold;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.carousel-caption{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+@keyframes showup {
+    0% {opacity:0;}
+    20% {opacity:1;}
+    80% {opacity:1;}
+    100% {opacity:0;}
+}
+
+@keyframes slidein {
+    0% { margin-left:-800px; }
+    20% { margin-left:-800px; }
+    35% { margin-left:0px; }
+    100% { margin-left:0px; }
+}
+
+@keyframes reveal {
+    0% {opacity:0;width:0px;}
+    20% {opacity:1;width:0px;}
+    30% {width:600px;}
+    80% {opacity:1;}
+    100% {opacity:0;width:1000px;}
+}

@@ -1,0 +1,151 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Weddings</title>
+
+<!-- TemplateEndEditable -->
+		<link rel="shortcut icon"  href="../R-main/img/tLogo.ico">
+<link href="../fontawesome/css/all.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script src="../R-main/Weddings/js/btn_top.js"></script>
+<script src="../R-main/Weddings/js/form.js"></script>
+<script defer src="../R-main/Weddings/js/slide.js"></script>
+<script src="../R-main/Weddings/js/clock.js"></script>
+<script src="../R-main/Weddings/js/snow.js"></script>
+
+<link href="../R-main/Weddings/css/C-themescolor1.css" rel="stylesheet" type="text/css">
+<link href="../R-main/Weddings/css/C-text-animation.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="../R-main/Weddings/css/btn_top.css">
+<link rel="stylesheet" href="../R-main/Weddings/css/footer.css">
+<link rel="stylesheet" href="../R-main/Weddings/css/header.css">
+<link rel="stylesheet" href="../R-main/Weddings/css/banner.css">
+<link rel="stylesheet" href="../R-main/Weddings/css/form.css">
+<link rel="stylesheet" href="../R-main/Weddings/css/clock.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alice&family=Cookie&family=Fredoka+One&family=Great+Vibes&family=Oooh+Baby&family=swap" rel="stylesheet">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	
+	
+	<!-- TemplateBeginEditable name="EditRegion3" -->
+	<div>
+	<nav class="navbar navbar-expand-md navbar-dark navi-color fixed-top" id="navig">
+  <a class="navbar-brand tit-brand" href="../R-main/Home.html"><img src="../R-main/img/Logo.png" id="logo"/>MERRY CHRISTMAS RESTAURANTS</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+	  <div class="header">
+	    <nav class="nasize navbar navbar-expand-lg bg-light navbar-light fixed-top"> <a class="navbar-brand" href="../R-main/Weddings/html/main.html"> <span class="hd">Weddings</span></a>
+	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar"> <span class="navbar-toggler-icon"></span> </button>
+	      <div class="collapse navbar-collapse" id="collapsibleNavbar">
+	        <ul class="navbar-nav ml-auto" id="inav01">
+	          <li class="nav-item"> <a class="nav-link" href="../R-main/Home.html"><span class="font"><b>Home</b></span></a> </li>
+	          <!-- Dropdown -->
+	          <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="../R-main/Weddings/html/main.html" id="navbardrop" data-toggle="dropdown"><span class="font"><b>Collections</b></span></a>
+	            <div class="dropdown-menu"> <a class="dropdown-item" href="../R-main/Weddings/html/urban.html"><span class="font">Urban</span></a> <a class="dropdown-item" href="../R-main/Weddings/html/modern.html"><span class="font">Modern</span></a> <a class="dropdown-item" href="../R-main/Weddings/html/classic.html"><span class="font">Classic</span></a> </div>
+              </li>
+	          <li class="nav-item"> <a class="nav-link" href="../R-main/Weddings/html/gallery.html"><span class="font"><b>Gallery</b></span></a> </li>
+	          <li class="nav-item"> <a class="nav-link" href="../R-main/Weddings/html/contact.html"><span class="font"><b>Contact Us</b></span></a> </li>
+	          <li class="nav-item"> <a class="nav-link" href="../R-main/Weddings/html/gift.html"><span class="font"><b>Gifts</b></span></a> </li>
+            </ul>
+          </div>
+        </nav>
+		  </nav>
+		  </div>
+	    <div class="progress-container">
+	      <div class="progress-bar" id="myBar"></div>
+        </div>
+    </div>
+      <div class="body">
+        <div class="container-fluid" >
+          <div class="nd">
+            <div class="banner"> </div>
+            <div align="center">
+              <h2>Content</h2>
+              <br>
+              <h3></h3>
+            </div>
+          </div>
+        </div>
+        
+      </div>
+	<!-- TemplateEndEditable -->
+<div class="footer"> <a class="btn-top" href="javascript:void(0);" title="Top" style="display: inline;"><i class="fas fa-chevron-up"></i></a></div>
+<footer class="text-center text-lg-start text-white" align="center">
+   		<section class="foo">
+     	   <div class="row"> 
+          	<div class="col-lg-4 mb-md-0">
+            <h5 class="tit-brand">MERRY CHRISTMAS RESTAURANTS</h5>
+            <p class="nomal">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Molestiae modi cum ipsam ad, illo possimus laborum ut
+              reiciendis obcaecati. Ducimus, quas. Corrupti, pariatur eaque?
+              Reiciendis assumenda iusto sapiente inventore animi?
+            </p>
+          </div>
+
+          <div class="col-lg-4 mb-md-0">
+			<h5 class="text-uppercase">Contact</h5>
+         	 <ul class="list-unstyled">
+            	<li><i class="fas fa-map-marker-alt pe-2"></i>Warsaw, 57 Street, Ho Chi Minh, Viet Nam</li>
+            	<li><i class="fas fa-phone pe-2"></i>+ 01 234 567 89</li>
+           		 <li><i class="fas fa-envelope pe-2 mb-0"></i>contact@loveyou.com</li>
+          	</ul>
+          </div>
+ 		<div class="col-lg-4 mb-md-0">
+          <h5 class="text-uppercase mb-4">Opening hours</h5>
+          <table class="table text-center text-white">
+            <tbody class="font-weight-normal">
+              <tr>
+                <td>Mon - Thu:</td>
+                <td>8am - 9pm</td>
+              </tr>
+              <tr>
+                <td>Fri - Sat:</td>
+                <td>8am - 1am</td>
+              </tr>
+              <tr>
+                <td>Sunday:</td>
+                <td>9am - 10pm</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        </div>
+
+    </section>
+  
+   <section class="text-center foo2">
+
+        <a class="tips btn btn-outline-light btn-floating m-1 rounded-circle" href="https://www.facebook.com/" role="button"><i class="fab fa-facebook-f"></i><span1>Facebook</span1></a>
+
+        <a class="tips btn btn-outline-light btn-floating m-1 rounded-circle" href="https://twitter.com/?lang=vi" role="button"><i class="fab fa-twitter"></i><span1>Twitter</span1></a>
+
+        <a class="tips btn btn-outline-light btn-floating m-1 rounded-circle"  href="https://www.google.com/" role="button"><i class="fab fa-google"></i><span1>Google</span1></a>
+
+        <a class="tips btn btn-outline-light btn-floating m-1 rounded-circle"  href="https://www.instagram.com/" role="button"><i class="fab fa-instagram"></i><span1>Instagram</span1></a>
+
+        <a class="tips btn btn-outline-light btn-floating m-1 rounded-circle"  href="https://www.reddit.com/" role="button"><i class="fab fa-reddit"></i><span1>Reddit</span1></a>
+
+        <a class="tips btn btn-outline-light btn-floating m-1 rounded-circle"  href="https://www.youtube.com/" role="button"><i class="fab fa-youtube"></i><span1>Youtube</span1></a>
+    
+	<hr class="hr-style0">
+    <div class="text-center">
+      © 2021 Copyright:
+      <a class="text-white" href="https://mdbootstrap.com/">MerryChristmas.com</a>
+    </div>
+	</section>
+  </footer>
+
+	</div>
+</body>
+</html>
